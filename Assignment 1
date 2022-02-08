@@ -1,0 +1,9 @@
+a = 9
+b = 11
+print('a > b is',a>b)
+print('a < b is',a<b)
+print('a == b is',a==b)
+print('a != b is',a!=b)
+print('a>= b is',a>=b)
+print('xa<= b is',a<=b)
+
